@@ -1,3 +1,7 @@
+This is my attempt to learn ruby/rails and other very cool ideas.
+
+*cao 2/17/13
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
